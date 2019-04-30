@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro post
+title: It's gonna be May
 subtitle: Alphazero is good at Go
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
