@@ -2,10 +2,7 @@
 layout: post
 title: US arms sales are not a good immediate predictor of election results
 subtitle: 
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-img: apr30.gif
+tags: [regression]
 comments: true
 ---
 
